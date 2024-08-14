@@ -8,7 +8,7 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
+    botname: process.env.BotName || "𝘋𝘜𝘓𝘈𝘕𝘑𝘈𝘕𝘈 𝘙𝘈𝘑𝘈𝘗𝘈𝘒𝘚𝘏𝘈",
     footer: process.env.Footer || "© Queen Anya Bot",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
@@ -16,8 +16,8 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "𝘋𝘜𝘓𝘈𝘕𝘑𝘈𝘕𝘈~𝘙𝘈𝘑𝘈𝘗𝘈𝘒𝘚𝘏𝘈",
+    ownernumber: process.env.Owner_Number || "94703074393",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
@@ -29,8 +29,8 @@ module.exports = {
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://Dulanjanq:Dulanjana001@cluster0.hbvmb.mongodb.net/",
+    sessionId: process.env.SESSION_ID || "N05we_Queen-Anya_EJCRFIjZDlhN2l1VDE1M2pMe_Queen-Anya_XQ4MVNue_Queen-Anya_mR2WWJFYWZUam5SOTE3WTJDc19mRXJsbw==",
 
     /**
      * thumbnails and medias
